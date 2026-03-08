@@ -1,0 +1,14 @@
+# adforge notification workflow
+name: adforge
+on:
+  push:
+    branches: ['**']
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify adforge
+        run: echo "adforge events handled via GitHub App webhook"
