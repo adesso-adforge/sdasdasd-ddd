@@ -1,4 +1,4 @@
-# {{DS_NAME}}
+# sdasdasd-ddd
 
 > Design system scaffolded by [adforge](https://github.com/adforge).
 

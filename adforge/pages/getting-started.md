@@ -5,18 +5,18 @@ order: 1
 
 # Getting Started
 
-Welcome to **{{DS_NAME}}**! This is your first documentation page.
+Welcome to **sdasdasd-ddd**! This is your first documentation page.
 
 ## Installation
 
 ```bash
-pnpm add {{REPO_NAME}}
+pnpm add sdasdasd-ddd
 ```
 
 ## Usage
 
 ```tsx
-import { Button } from '{{REPO_NAME}}';
+import { Button } from 'sdasdasd-ddd';
 
 export default function App() {
   return <Button variant="primary">Click me</Button>;
