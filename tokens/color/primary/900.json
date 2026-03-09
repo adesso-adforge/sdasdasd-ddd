@@ -1,0 +1,10 @@
+{
+  "color": {
+    "primary": {
+      "900": {
+        "$type": "color",
+        "$value": "#bbff00"
+      }
+    }
+  }
+}
